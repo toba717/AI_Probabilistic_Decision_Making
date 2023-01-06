@@ -1,7 +1,7 @@
 # stats115
 UCLA STATS115 Fall 2022 (Final Overall Course Grade: A)
 
-Course Title: Probabilistic Decision Making
+Course Title: Probabilistic Decision Making and Reinforced Learning
 
 
 Topics: Formulation of decision making problem as probabilistic inference. Derivation algorithms for solving probabilistic decision making. Implementation of code that executes inference and decision. Covers Markov decision process, planning, search, and reinforcement learning
